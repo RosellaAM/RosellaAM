@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/color/48/000000/data-configuration.png" width="30" /> [Rosella Astrain] 
+# <img src="https://img.icons8.com/color/48/000000/data-configuration.png" width="30" /> Rosella Astrain
 ### Data Scientist
 
 **Construyendo soluciones inteligentes con Python & SQL**
@@ -34,6 +34,7 @@ Soy una Data Scientist apasionada con experiencia en el desarrollo de **pipeline
 
 ### **💻 Desarrollo & Colaboración**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -54,9 +55,9 @@ class DataScientist:
 ## 📊 Estadísticas de GitHub
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RosellaAM&show_icons=true&theme=radical&border_radius=10)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/ username=RosellaAM&layout=compact&theme=radical&border_radius=10)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RosellaAM&theme=radical" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RosellaAM&theme=radical" alt="Lenguajes por Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RosellaAM&theme=radical" alt="Lenguajes más usados"/>
 
 </div>
 
