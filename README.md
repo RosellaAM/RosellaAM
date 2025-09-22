@@ -3,12 +3,6 @@
 
 **Construyendo soluciones inteligentes con Python & SQL**
 
-<div align="center">
-
-![Banner](https://github-readme-streak-stats.herokuapp.com/?user=RosellaAM&theme=radical)
-
-</div>
-
 ## 👨‍💻 Sobre Mí
 
 Soy una Data Scientist apasionada con experiencia en el desarrollo de **pipelines completos de Machine Learning** para resolver desafíos empresariales como la predicción de churn y la optimización de procesos. Mi objetivo es transformar datos en insights accionables que impulsen la toma de decisiones.
@@ -52,7 +46,7 @@ class DataScientist:
         ]
 ```
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RosellaAM&theme=radical" alt="Stats"/>
@@ -60,16 +54,6 @@ class DataScientist:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RosellaAM&theme=radical" alt="Lenguajes más usados"/>
 
 </div>
-
-📈 Mis Métricas
-<div align="center">
-Métrica	Valor	Badge
-Repositorios	15+	https://img.shields.io/badge/Repos-15+-brightgreen
-Contribuciones	200+	https://img.shields.io/badge/Commits-200+-blue
-Estrellas	50+	https://img.shields.io/badge/Stars-50+-yellow
-Experiencia	2+ años	https://img.shields.io/badge/Experience-2%252B_years-orange
-</div>
-
 
 ## 🌟 Actualmente...
 - 🧠 **Inmersión total en:** Power BI + PyTorch + Deep Learning.
