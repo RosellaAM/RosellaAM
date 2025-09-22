@@ -37,6 +37,7 @@ Soy una Data Scientist apasionada con experiencia en el desarrollo de **pipeline
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
 ### **Especializaciones**
 ```python
 class DataScientist:
@@ -48,3 +49,29 @@ class DataScientist:
             "💡 Soluciones Data-Driven",
             "📊 Dashboards Interactivos"
         ]
+```
+
+## 📊 Estadísticas de GitHub
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=RosellaAM&show_icons=true&theme=radical&border_radius=10
+https://github-readme-stats.vercel.app/api/top-langs/?username=RosellaAM&layout=compact&theme=radical&border_radius=10
+
+</div>
+
+📈 Mis Métricas
+<div align="center">
+Métrica	Valor	Badge
+Repositorios	15+	https://img.shields.io/badge/Repos-15+-brightgreen
+Contribuciones	200+	https://img.shields.io/badge/Commits-200+-blue
+Estrellas	50+	https://img.shields.io/badge/Stars-50+-yellow
+Experiencia	2+ años	https://img.shields.io/badge/Experience-2%252B_years-orange
+</div>
+
+
+## 🌟 Actualmente...
+- 🧠 **Inmersión total en:** Power BI + PyTorch + Deep Learning.
+- 🔭 **Desarrollando:** Mis primeros proyectos end-to-end de ML.
+- 📚 **Estudiando:** Fundamentos teóricos y aplicaciones prácticas.
+- 👥 **Buscando:** Comunidades de Data Science para aprender colaborativamente.
+  
