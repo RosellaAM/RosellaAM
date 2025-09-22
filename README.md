@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Banner](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical)
+![Banner](https://github-readme-streak-stats.herokuapp.com/?user=RosellaAM&theme=radical)
 
 </div>
 
@@ -54,8 +54,9 @@ class DataScientist:
 ## 📊 Estadísticas de GitHub
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=RosellaAM&show_icons=true&theme=radical&border_radius=10
-https://github-readme-stats.vercel.app/api/top-langs/?username=RosellaAM&layout=compact&theme=radical&border_radius=10
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RosellaAM&show_icons=true&theme=radical&border_radius=10)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/ username=RosellaAM&layout=compact&theme=radical&border_radius=10)
+
 
 </div>
 
