@@ -56,8 +56,8 @@ class DataScientist:
 </div>
 
 ## 🌟 Currently...
-- 🧠 Fully immersed in: Power BI + PyTorch + Deep Learning.
-- 🔭 Developing: My first end-to-end ML projects.
+- 🧠 Fully immersed in: AWS - Cybersecurity - PowerBI.
+- 🔭 Developing: ML projects.
 - 📚 Studying: Theoretical foundations and practical applications.
 - 👥 Looking for: Data Science communities for collaborative learning
   
